@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac
-- 👀 I’m interested in software engineering, API, GUI, Videogame design 
+- 👀 I’m interested in software development, API, GUI, Videogame design 
 - 🌱 I’m currently learning software engineeing at ASU
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me; just message me!
